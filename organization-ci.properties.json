@@ -1,0 +1,14 @@
+{ 
+    "name": "FantasticWorkflow", 
+    "description": "so goood",
+    "iconName": "flag", 
+    "categories": [  
+        "Go" 
+    ], 
+    "filePatterns": [  
+        "package.json$", 
+        "^Dockerfile", 
+        ".*\\.md$" 
+    ]
+} 
+ 
